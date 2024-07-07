@@ -9,7 +9,7 @@ tags:
   - wu
   - CTF
 ogImage: ""
-description: Some note for UIUCTF2024
+description: Some pwnable write up for UIUCTF2024
 canonicalURL: https://example.org/my-article-was-already-posted-here
 ---
 ## Table of contents
